@@ -65,10 +65,10 @@ BlinkitClone/
 
 ### 📱 User App
 
- !(<img width="158" alt="image" src="https://github.com/user-attachments/assets/78f279e0-ad2b-4e9d-81e0-98e191753e3b" />
- !(<img width="163" alt="image" src="https://github.com/user-attachments/assets/87eaeb18-0a9d-485b-9e3d-163b2c56bfdf" />
- !(<img width="163" alt="image" src="https://github.com/user-attachments/assets/e9933400-6a9c-4bff-9e5a-778733c35258" />
- !<img width="164" alt="image" src="https://github.com/user-attachments/assets/560378f0-96f9-4cd2-9c9d-ddff313c9ac2" />
+ <img width="158" alt="image" src="https://github.com/user-attachments/assets/78f279e0-ad2b-4e9d-81e0-98e191753e3b" />
+ <img width="163" alt="image" src="https://github.com/user-attachments/assets/87eaeb18-0a9d-485b-9e3d-163b2c56bfdf" />
+ <img width="163" alt="image" src="https://github.com/user-attachments/assets/e9933400-6a9c-4bff-9e5a-778733c35258" />
+ <img width="164" alt="image" src="https://github.com/user-attachments/assets/560378f0-96f9-4cd2-9c9d-ddff313c9ac2" />
 
 ---
 
